@@ -35,7 +35,7 @@ Especialista en tender puentes entre el mundo físico (OT) y el mundo digital (I
 ### 📊 Estadísticas de GitHub
 
 ![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebasArcila&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasArcila&layout=compact&theme=tokyonight)
++![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasArcila&layout=compact&theme=tokyonight)
 
 ---
 
