@@ -34,15 +34,15 @@ Especialista en tender puentes entre el mundo físico (OT) y el mundo digital (I
 
 ### 📊 Estadísticas de GitHub
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[SebasArcila]&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[SebasArcila]&layout=compact&theme=tokyonight)
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebasArcila&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasArcila&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Contacto
 
 - **LinkedIn**: [linkedin.com/in/joan-sebastian-arcila-cardozo](https://www.linkedin.com/in/joan-sebastian-arcila-cardozo-a538a3255/)
-- **Celular**:3219267449
+- **Contacto**:+57 3219267449
 - **Email**: jsarcilac@gmail.com
 
 ---
