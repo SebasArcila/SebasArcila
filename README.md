@@ -1,6 +1,6 @@
 # Hola! Soy Sebastian Arcila 👋
 
-## Full Stack Developer | Industrial Automation Expert | AI Enthusiast
+## Full Stack Developer | Industrial Automation | AI Enthusiast
 
 Especialista en tender puentes entre el mundo físico (OT) y el mundo digital (IT). Me apasiona crear sistemas robustos, visualmente impactantes y potenciados por Inteligencia Artificial para resolver problemas complejos en la industria y el desarrollo web.
 
